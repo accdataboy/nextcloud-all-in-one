@@ -1,5 +1,10 @@
-# Nextcloud All-in-One
-The official Nextcloud installation method. Nextcloud AIO provides easy deployment and maintenance with most features included in this one Nextcloud instance. 
+# Nextcloud Security Focus All-in-One
+Forked from the official Nextcloud installation method. Nextcloud AIO provides easy deployment and maintenance with most features included in this one Nextcloud instance. 
+
+TODO:
+- Review workflows
+- Review Dependabot
+- Research external API audit result automation
 
 Included are:
 - Nextcloud
